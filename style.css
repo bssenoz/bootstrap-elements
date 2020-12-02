@@ -31,8 +31,8 @@ ul {
 .disabled{
     padding: 20px 16px;
     display: block;
-	margin-left:10px;
-	float:left;
+    margin-left:10px;
+    float:left;
     color: #b2bec3;
     text-align: center;
     text-decoration: none;
@@ -40,8 +40,8 @@ ul {
 .link{ 
     padding: 20px 16px;
     display: block;
-	margin-left:10px;
-	float:left;
+    margin-left:10px;
+    float:left;
     color: #95a5a6;
     text-align: center;
     text-decoration: none;
@@ -72,7 +72,7 @@ ul li ul {
 }
 ul li:hover ul{
     display:block;
-	background-color:#ecf0f1;
+    background-color:#ecf0f1;
 }
 li ul li {
     display:block; 
@@ -125,9 +125,9 @@ h1 {
 p{
 	font-family:Calibri; 
 	margin-top:-30px;
-    margin-bottom:20px;}
+        margin-bottom:20px;}
 hr{
-	margin-top:10px;
+    margin-top:10px;
     margin-left:10px;
     margin-right:10px;
 	}
@@ -223,7 +223,7 @@ hr.çizgi3 {
 .card-header{
        font-family:Calibri;
        padding-top:20px;
-	   border-radius:1px;
+       border-radius:1px;
        color: black; 
        font-size:20px;  
        text-align:center; 
@@ -238,8 +238,8 @@ hr.çizgi3 {
        width:1000px; 
        margin-left:0; 
        border-radius: 0.25rem;
-	   margin-top:10px;
-	   margin-bottom:30px;
+       margin-top:10px;
+       margin-bottom:30px;
 }
 .card-title1{ 
       font-family:Calibri; 
@@ -250,11 +250,10 @@ hr.çizgi3 {
 .card-title2{ 
       font-family:Calibri; 
       color:gray;
-
       font-size:23px;
-	  margin-top:10px;
+      margin-top:10px;
       float:left;
-    margin-left:460px;
+      margin-left:460px;
 }
 .card-text{
 margin-top:-13px;
@@ -265,9 +264,8 @@ font-family:Calibri;
       background-color:#E9ECEF;
       font-family:Calibri; 
       height:50px; 
-	  border-radius:1px;
-	  text-align: center;
-
+      border-radius:1px;
+      text-align: center;
 }
 
 .button2 {
@@ -325,6 +323,7 @@ font-family:Calibri;
         font-size: 16px;
         margin-bottom:30px;
 	}
+
         #button4:hover {
       	background-color: grey;
       	color: white;
